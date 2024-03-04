@@ -1,6 +1,7 @@
-<img src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif">
+
 
 <h1 align="center">Hi 👋, I'm Deepak singh</h1>
+<img src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif">
 <h3 align="center">A passionate Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksingh001&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksingh001" /> </p>
