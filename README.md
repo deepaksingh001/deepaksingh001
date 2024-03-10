@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaksingh001&show_icons=true&locale=en" alt="deepaksingh001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksingh001&" alt="deepaksingh001" /></p>
-
